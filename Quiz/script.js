@@ -1,4 +1,5 @@
-const quizData = [{
+const quizData = [
+    {
         question: "What is the correct file extension for Python files?",
         options: [".pyth", ".pt", ".py", ".pyt"],
         answer: ".py"
